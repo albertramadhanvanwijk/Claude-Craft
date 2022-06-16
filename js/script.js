@@ -24,3 +24,4 @@ var cards = document.querySelectorAll('.product-box');
         card.classList.remove('is-hover');
     })
 })
+
